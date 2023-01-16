@@ -1,0 +1,13 @@
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\bin\Debug\kalkulejtor.exe.config
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\bin\Debug\kalkulejtor.exe
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\bin\Debug\kalkulejtor.pdb
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.csproj.AssemblyReference.cache
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.Form1.resources
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.Properties.Resources.resources
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.csproj.GenerateResource.cache
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.csproj.CoreCompileInputs.cache
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.csproj.CopyComplete
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.exe
+C:\Users\xShizzeR\Desktop\Kalkulator--master\kalkulejtor\obj\Debug\kalkulejtor.pdb
